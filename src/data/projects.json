@@ -12,7 +12,7 @@
     "imageSrc": "projects/project.png",
     "description": "A personal online platform that  to showcase your work, skills, achievements, and professional identity.",
     "skills": ["Html", "Css", "React"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://saramsikaportfolio.netlify.app/",
+    "source": "https://github.com/saramsika12/Portfolio"
   }
 ]
