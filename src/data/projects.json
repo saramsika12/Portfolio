@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Pizza Hub",
+    "imageSrc": "projects/pizzaHub.png",
+    "description": "It is a platform designed to solve food delivery challenges for a pizza restaurant. The primary goal is to provide customers with reliable service.",
+    "skills": ["Html", "Css", "Javascript", "Asp.Net", "SQL Management System"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/project.png",
+    "description": "A personal online platform that  to showcase your work, skills, achievements, and professional identity.",
+    "skills": ["Html", "Css", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
