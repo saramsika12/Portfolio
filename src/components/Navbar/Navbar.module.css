@@ -19,7 +19,7 @@
     color: var(--color-text);
 }
 
-.menu{
+/* .menu{
     display: flex;
 
 }
@@ -34,7 +34,7 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
-}
+} */
 
 @media screen and (max-width: 830px) {
     .navbar{

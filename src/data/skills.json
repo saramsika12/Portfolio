@@ -22,5 +22,13 @@
   {
     "title": "Github",
     "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/Nextjs.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/Tailwind.png"
   }
 ]

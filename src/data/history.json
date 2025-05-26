@@ -3,8 +3,16 @@
       "role": "Software developer Intern",
       "organisation": "Process Feedback",
       "startDate": "Feb, 2025",
-      "endDate": "Present",
-      "experiences": ["Working as intern at Process Feedback."],
+      "endDate": "April",
+      "experiences": ["Working as freelancer with the professor of St. Louis on his project Process Feedback."],
       "imageSrc": "skills/pf.png"
+    },
+     {
+      "role": "Software developer Intern",
+      "organisation": "ama ko maya",
+      "startDate": "May, 2025",
+      "endDate": "Present",
+      "experiences": ["Working as intern at governmental project named 'ama ko maya'."],
+      "imageSrc": null
     }
 ]

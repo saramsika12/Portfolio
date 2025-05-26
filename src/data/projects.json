@@ -14,5 +14,29 @@
     "skills": ["Html", "Css", "React"],
     "demo": "https://saramsikaportfolio.netlify.app/",
     "source": "https://github.com/saramsika12/Portfolio"
+  },
+  {
+    "title": "Consultancy Website",
+    "imageSrc": "projects/image.png",
+    "description": "A professional website of Japanese Consultancy named 'Ganapati Educational Consultacy' ",
+    "skills": ["React", "Tailwind Css"],
+    "demo":  "Need to deploy",
+    "source": null
+  },
+  {
+    "title": "Admin Dashboard Panel",
+    "imageSrc": null,
+    "description": "A personal online platform that  to showcase my work, skills, achievements, and professional identity.",
+    "skills": ["Html", "Css", "React"],
+    "demo": null,
+    "source": "https://github.com/saramsika12/Admin-Dashboard"
+  },
+  {
+    "title": "Zoom Clone",
+    "imageSrc": null,
+    "description": "Mt practise project on building the Zoom Clone webapp",
+    "skills": ["NextJs", "Tailwind Css", "Clerk"],
+    "demo": null,
+    "source": "On Progress"
   }
 ]
