@@ -9,13 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Saramsika Dahal</h1>
         <p className={styles.description}>
-          I am a passionate and ambitious developer working primarily in .NET
-          framework, with a growing skill set in frontend technologies like
-          React. My journey into development has been marked by a commitment to
-          learning and creating solutions that make a difference. I love
+          I am a passionate and ambitious developer with a growing skill set in frontend technologies like
+          React.js, Next.js and Tailwind Css and backend technologies like ASP.Net. I love
           building web applications that address real-world challenges, such as
-          my ongoing project like Pizza Hub, a platform to streamline pizza
-          delivery services.
+          my projects like Pizza Hub, Admin Dashboard panel and so on.
         </p>
         <a href="mailto:saramsika9@email.com" className={styles.contactBtn}>
           Contact Me
